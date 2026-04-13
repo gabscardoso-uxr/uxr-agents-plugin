@@ -1,0 +1,12 @@
+{
+  "name": "uxr-agents",
+  "version": "1.0.0",
+  "description": "UX Research agents that transform briefs into research plans, screeners, discussion guides, and synthesis reports.",
+  "author": {
+    "name": "gabscardoso-uxr",
+    "url": "https://github.com/gabscardoso-uxr"
+  },
+  "repository": "https://github.com/gabscardoso-uxr/uxr-agents-plugin",
+  "license": "MIT",
+  "keywords": ["uxr", "user-research", "research", "scoper", "screener", "discussion-guide", "synthesis"]
+}
