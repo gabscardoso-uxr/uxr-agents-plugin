@@ -1,0 +1,16 @@
+{
+  "name": "uxr-agents",
+  "owner": {
+    "name": "gabscardoso-uxr"
+  },
+  "metadata": {
+    "description": "UX Research agent skills: scoper, screener, discussion-guide, synthesis."
+  },
+  "plugins": [
+    {
+      "name": "uxr-agents",
+      "source": "./",
+      "description": "UX Research agents that transform briefs into research plans, screeners, discussion guides, and synthesis reports."
+    }
+  ]
+}
